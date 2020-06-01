@@ -14,3 +14,16 @@
 * Film recommendation system
 * KNN and matrix correlation methods
 * Using Pandas, Scikit-learn
+
+# [Project 4: Music Classification](https://github.com/MiguelAspis/Music-Classification)
+* [Marsyas dataset](http://marsyas.info/downloads/datasets.html)
+* Music Classification system
+* Preprocessing extracting the mfcc of sound files
+* CNN and RNN-LSTM models
+* Using Scikit-learn, librosa, Keras, Tensorflow
+
+# [Project 5: Chatbot](https://github.com/MiguelAspis/simple_chatbot)
+* Simple Chatbot system
+* Using NLP concepts like lemmatizing, bag of words and stemming
+* GUI made with tkinter
+* Using nltk, Keras, Pickle
