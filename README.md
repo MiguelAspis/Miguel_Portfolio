@@ -41,3 +41,11 @@
 * Developed with Pandas, Numpy, Matplotlib
 
 ![](/images/uber.png)
+
+# [Project 7: Algorithmic Trading](https://github.com/MiguelAspis/trading_analysis)
+* Trading Analysis of tesla stock
+* Relationship between S&P 500 companies
+* Predictions with Random Forest, and KNN classifiers
+* Developed using pandas,matplotlib,yahoo finance, and scikit-learn
+
+![](/images/trading.png)
