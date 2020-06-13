@@ -4,7 +4,7 @@
 # [Project 1: Face Recognition](https://github.com/MiguelAspis/face_recognition)
 * Face recognition project using openCV and tensorflow
 
-![](/images/elon.jpg)
+![](/images/mona.jpg)
 
 # [Project 2: Image Classification](https://github.com/MiguelAspis/image_classification)
 * Image Classification System using a CNN
