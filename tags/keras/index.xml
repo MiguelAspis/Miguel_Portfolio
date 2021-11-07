@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keras on Miguel Aspis&#39;s Portfolio</title>
+    <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/keras/</link>
+    <description>Recent content in Keras on Miguel Aspis&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music Classification</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/music-classification/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/music-classification/</guid>
+      <description>Music classification project with the intent of classifying different songs based on their genre using the Marsyas dataset and using 2 architectures, a small convolutional neural network and a recurrent neural network with LSTM cells. Accompanied by audio preprocessing routine which was done on each music sample to be able to feed it to the NNs using the librosa library. The whole project can be seen on the github repo</description>
+    </item>
+    
+    <item>
+      <title>Simple Chatbot</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/chatbot/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/chatbot/</guid>
+      <description>Simple chatbot developed in Python trained using nltk for Natural language processing and Tensorflow for training the model, using a simple feedforward neural network. The GUI was programmed using tkinter. More can be seen in the project&amp;rsquo;s github repo</description>
+    </item>
+    
+    <item>
+      <title>Basic Image Classification</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/image-classification/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/image-classification/</guid>
+      <description>Basic Image classification A project done using a simple CNN architecture to do image classification on the CIFAR-10 dataset.
+Steps of the process include:
+ Importing the data One-hot enconding it Defining 1st basic CNN using Keras high-level Sequential API Training and evaluating Defining a bit bigger model Training and evaluating Comparing both and concluding  more can be read on the project&amp;rsquo;s github repo</description>
+    </item>
+    
+  </channel>
+</rss>

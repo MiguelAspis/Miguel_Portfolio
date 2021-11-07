@@ -1,0 +1,43 @@
+[{
+    "title": "About",
+    "date": "",
+    "description": "",
+    "body": "Hi my name is Miguel Aspis, I\u0026rsquo;m a data scientist with experience in using deep learning to solve hard problems in a variety of contexts. My knowledge in physics allows me to look at some problems in a fresh perspective and find unique solutions.\nI feel passionate about everything science-related and specially about how physics and AI can solve society\u0026rsquo;s biggest problems.\nI\u0026rsquo;m currently working as a freelance data scientist and am always up for a challenge. Reach out through the contact page or directly through aspismiguel2@gmail.com to connect!\n",
+    "ref": "/Miguel_Portfolio/about/"
+  },{
+    "title": "Music Classification",
+    "date": "",
+    "description": "Music Classification using a CNN and a LSTM on the Marsyas dataset",
+    "body": "Music classification project with the intent of classifying different songs based on their genre using the Marsyas dataset and using 2 architectures, a small convolutional neural network and a recurrent neural network with LSTM cells. Accompanied by audio preprocessing routine which was done on each music sample to be able to feed it to the NNs using the librosa library. The whole project can be seen on the github repo\n",
+    "ref": "/Miguel_Portfolio/blog/music-classification/"
+  },{
+    "title": "Simple Chatbot",
+    "date": "",
+    "description": "Chatbot developed in python using keras, Tensoflow, nltk and tkinter for the GUI",
+    "body": "Simple chatbot developed in Python trained using nltk for Natural language processing and Tensorflow for training the model, using a simple feedforward neural network. The GUI was programmed using tkinter. More can be seen in the project\u0026rsquo;s github repo\n",
+    "ref": "/Miguel_Portfolio/blog/chatbot/"
+  },{
+    "title": "Movie Recommender System",
+    "date": "",
+    "description": "Recommender system developed on the imdb dataset",
+    "body": "Notebook with exploratory data analysis, seeing relationships and interesting facts in the data, with some visualizations and development of 2 basic recommender systems, one based on correlation between movies and the other using the K Nearest Neighbor algorithm. More can be read on the notebook available at the github repo\n",
+    "ref": "/Miguel_Portfolio/blog/film-recommender/"
+  },{
+    "title": "Basic Image Classification",
+    "date": "",
+    "description": "Simple image classification on CIFAR-10 dataset with Keras and Tensorflow",
+    "body": "Basic Image classification A project done using a simple CNN architecture to do image classification on the CIFAR-10 dataset.\nSteps of the process include:\n Importing the data One-hot enconding it Defining 1st basic CNN using Keras high-level Sequential API Training and evaluating Defining a bit bigger model Training and evaluating Comparing both and concluding  more can be read on the project\u0026rsquo;s github repo\n",
+    "ref": "/Miguel_Portfolio/blog/image-classification/"
+  },{
+    "title": "Uber data visualization",
+    "date": "",
+    "description": "Data visualization project performed on Uber trips dataset",
+    "body": "Data visualization project on dataset with uber trips data on New York city in the year 2014. Some interesting information could be gathered regarding costumer\u0026rsquo;s habits and patterns. One of such visualizations can be seen here:\nMore of these can be seen on the github repo\n",
+    "ref": "/Miguel_Portfolio/blog/uber-viz/"
+  },{
+    "title": "Contact",
+    "date": "",
+    "description": "",
+    "body": "",
+    "ref": "/Miguel_Portfolio/contact/"
+  }]

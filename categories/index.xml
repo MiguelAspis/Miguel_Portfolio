@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Miguel Aspis&#39;s Portfolio</title>
+    <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/</link>
+    <description>Recent content in Categories on Miguel Aspis&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/audio/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/classification/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatbot</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/chatbot/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/nlp/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommender Systems</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/recommender-systems/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/recommender-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/computer-vision/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/data-visualization/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

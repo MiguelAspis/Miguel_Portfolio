@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on Miguel Aspis&#39;s Portfolio</title>
+    <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/audio/</link>
+    <description>Recent content in Audio on Miguel Aspis&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/categories/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music Classification</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/music-classification/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/music-classification/</guid>
+      <description>Music classification project with the intent of classifying different songs based on their genre using the Marsyas dataset and using 2 architectures, a small convolutional neural network and a recurrent neural network with LSTM cells. Accompanied by audio preprocessing routine which was done on each music sample to be able to feed it to the NNs using the librosa library. The whole project can be seen on the github repo</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KNN on Miguel Aspis&#39;s Portfolio</title>
+    <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/knn/</link>
+    <description>Recent content in KNN on Miguel Aspis&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/tags/knn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommender System</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/film-recommender/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/film-recommender/</guid>
+      <description>Notebook with exploratory data analysis, seeing relationships and interesting facts in the data, with some visualizations and development of 2 basic recommender systems, one based on correlation between movies and the other using the K Nearest Neighbor algorithm. More can be read on the notebook available at the github repo</description>
+    </item>
+    
+  </channel>
+</rss>

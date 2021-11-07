@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Miguel Aspis&#39;s Portfolio</title>
+    <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/</link>
+    <description>Recent content in Tags on Miguel Aspis&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keras</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/keras/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Librosa</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/librosa/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/librosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scikit-learn</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/scikit-learn/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/scikit-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow 2</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/tensorflow-2/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/tensorflow-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLTK</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/nltk/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/nltk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tkinter</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/tkinter/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/tkinter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation matrix</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/correlation-matrix/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/correlation-matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KNN</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/knn/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/knn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/pandas/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matplotlib</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/matplotlib/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seaborn</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/seaborn/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/tags/seaborn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
