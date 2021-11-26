@@ -8,7 +8,7 @@
     "title": "Image Captioning",
     "date": "",
     "description": "Image Captioning done using EfficientNetB0 and Transformers",
-    "body": "Time series forecasting project done on the monthly mean sunspot number 1749-2018 dataset using Tensroflow and Keras Sequential API to design a number of very simple models to test on this problem, the goal was not to get the performance possible but to recall the workflow of working with time series data and how to do forecasting with it. More can be read in the notebook located on the project\u0026rsquo;s github repo\n",
+    "body": "Image Captioning project done using Keras and Tensorflow and trained o the flickr8kdataset applying visual attention using EfficientNetB0 to extract image embeddings and then training a transformer model based on the original architecture to provide captions. More can be read in the notebook located on the project\u0026rsquo;s github repo\n",
     "ref": "/Miguel_Portfolio/blog/image-captioning/"
   },{
     "title": "Sunspot Forecasting",
