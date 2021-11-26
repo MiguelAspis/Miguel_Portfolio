@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series Forecasting on Miguel Aspis&#39;s Portfolio</title>
+    <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/time-series-forecasting/</link>
+    <description>Recent content in Time Series Forecasting on Miguel Aspis&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/categories/time-series-forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunspot Forecasting</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/sunspot-forecast/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/sunspot-forecast/</guid>
+      <description>Time series forecasting project done on the monthly mean sunspot number 1749-2018 dataset using Tensroflow and Keras Sequential API to design a number of very simple models to test on this problem, the goal was not to get the performance possible but to recall the workflow of working with time series data and how to do forecasting with it. More can be read in the notebook located on the project&amp;rsquo;s github repo</description>
+    </item>
+    
+  </channel>
+</rss>

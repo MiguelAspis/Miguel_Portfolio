@@ -5,6 +5,18 @@
     "body": "Hi my name is Miguel Aspis, I\u0026rsquo;m a data scientist with experience in using deep learning to solve hard problems in a variety of contexts. My knowledge in physics allows me to look at some problems in a fresh perspective and find unique solutions.\nI feel passionate about everything science-related and specially about how physics and AI can solve society\u0026rsquo;s biggest problems.\nI\u0026rsquo;m currently working as a freelance data scientist and am always up for a challenge. Reach out through the contact page or directly through aspismiguel2@gmail.com to connect!\n",
     "ref": "/Miguel_Portfolio/about/"
   },{
+    "title": "Image Captioning",
+    "date": "",
+    "description": "Image Captioning done using EfficientNetB0 and Transformers",
+    "body": "Time series forecasting project done on the monthly mean sunspot number 1749-2018 dataset using Tensroflow and Keras Sequential API to design a number of very simple models to test on this problem, the goal was not to get the performance possible but to recall the workflow of working with time series data and how to do forecasting with it. More can be read in the notebook located on the project\u0026rsquo;s github repo\n",
+    "ref": "/Miguel_Portfolio/blog/image-captioning/"
+  },{
+    "title": "Sunspot Forecasting",
+    "date": "",
+    "description": "Sunspot forecasting using a number of different simple architectures",
+    "body": "Time series forecasting project done on the monthly mean sunspot number 1749-2018 dataset using Tensroflow and Keras Sequential API to design a number of very simple models to test on this problem, the goal was not to get the performance possible but to recall the workflow of working with time series data and how to do forecasting with it. More can be read in the notebook located on the project\u0026rsquo;s github repo\n",
+    "ref": "/Miguel_Portfolio/blog/sunspot-forecast/"
+  },{
     "title": "Music Classification",
     "date": "",
     "description": "Music Classification using a CNN and a LSTM on the Marsyas dataset",

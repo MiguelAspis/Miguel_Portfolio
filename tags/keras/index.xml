@@ -5,7 +5,25 @@
     <link>https://miguelaspis.github.io/Miguel_Portfolio/tags/keras/</link>
     <description>Recent content in Keras on Miguel Aspis&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Captioning</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/image-captioning/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/image-captioning/</guid>
+      <description>Time series forecasting project done on the monthly mean sunspot number 1749-2018 dataset using Tensroflow and Keras Sequential API to design a number of very simple models to test on this problem, the goal was not to get the performance possible but to recall the workflow of working with time series data and how to do forecasting with it. More can be read in the notebook located on the project&amp;rsquo;s github repo</description>
+    </item>
+    
+    <item>
+      <title>Sunspot Forecasting</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/sunspot-forecast/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/sunspot-forecast/</guid>
+      <description>Time series forecasting project done on the monthly mean sunspot number 1749-2018 dataset using Tensroflow and Keras Sequential API to design a number of very simple models to test on this problem, the goal was not to get the performance possible but to recall the workflow of working with time series data and how to do forecasting with it. More can be read in the notebook located on the project&amp;rsquo;s github repo</description>
+    </item>
+    
     <item>
       <title>Music Classification</title>
       <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/music-classification/</link>
