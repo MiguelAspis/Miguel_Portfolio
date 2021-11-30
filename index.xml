@@ -5,7 +5,16 @@
     <link>https://miguelaspis.github.io/Miguel_Portfolio/</link>
     <description>Recent content on Miguel Aspis&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Various NLP tasks done with state-of-the-art models</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/blog/nlp-tasks/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/blog/nlp-tasks/</guid>
+      <description>Table of Contents  Table of Contents Introduction Sentiment Analysis with DistillBert English-Portuguese Translation with transformer Text summarization - BART  Introduction This project was done mainly to learn the basics of streamlit, huggingface&amp;rsquo;s inference api and heroku app deployment and as such it isn&amp;rsquo;t very technically complex. Since the actual implementation is so basic due to the use of the pre-trained and fine-tuned models available at huggingface hub I have decided to write more in depth about the models used for each task.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://miguelaspis.github.io/Miguel_Portfolio/about/</link>

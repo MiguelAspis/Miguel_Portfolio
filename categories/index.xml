@@ -5,7 +5,16 @@
     <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/</link>
     <description>Recent content in Categories on Miguel Aspis&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelaspis.github.io/Miguel_Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NLP</title>
+      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/nlp/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/nlp/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Computer Vision</title>
       <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/computer-vision/</link>
@@ -48,15 +57,6 @@
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/chatbot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://miguelaspis.github.io/Miguel_Portfolio/categories/nlp/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://miguelaspis.github.io/Miguel_Portfolio/categories/nlp/</guid>
       <description></description>
     </item>
     
